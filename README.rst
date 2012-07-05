@@ -19,3 +19,9 @@ Installation
 
 To install, simply copy ``pyre.vim`` into your ``.vim/plugin`` folder. Or use
 `VAM <https://github.com/MarcWeber/vim-addon-manager>`_
+
+Search
+------
+
+Currently, this only does substition, not matching. I rarely search using
+regexes.
