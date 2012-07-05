@@ -13,3 +13,9 @@ Examples::
                                " "goodbye bob" on the current line
   :'<,'>S#[cK]orn#candy#       " replaces all instances of "corn" and "Korn"
                                " with "candy"
+
+Installation
+------------
+
+To install, simply copy ``pyre.vim`` into your ``.vim/plugin`` folder. Or use
+`VAM <https://github.com/MarcWeber/vim-addon-manager>`_
